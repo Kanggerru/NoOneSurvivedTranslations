@@ -291,7 +291,7 @@ msgstr "말라리아 확률"
 #: /Game/Blueprint/ACF/Player/HDCK_CharacterBP.Default__HDCK_CharacterBP_C.TimeBuffDetail(0).TimeBuffDetail.TipMessage_56_5402F47A4785659B27440099C7CA676D
 msgctxt ",0D2F9EF34F24FE1D4DE8229B65941BC4"
 msgid "疟疾，减少耐力上限和回复"
-msgstr "말라리아, 최대체력및 회복양 감소"
+msgstr "말라리아, 최대체력 및 회복량 감소"
 
 #. Key:	0EAC4CF84F900A49A09DE09F240307B5
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.YZKX.Text
@@ -424,7 +424,7 @@ msgstr "물 주입구"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_71.In Text
 msgctxt ",1470933545C7CA2F2EB2BCA1D91B3008"
 msgid "制药仪"
-msgstr "제약 기기"
+msgstr "제약 기계"
 
 #. Key:	147BD87446DA956F29E07B807DB1FEF0
 #. SourceLocation:	/Game/Blueprint/UMG/UIBase/WBP_BookTipButton.Default__WBP_BookTipButton_C.Text
@@ -1607,7 +1607,7 @@ msgstr "RoofEndTringer"
 #: /Game/Blueprint/UMG/WBP_GetWater.WBP_GetWater_C:WidgetTree.TextBlock_57.Text
 msgctxt ",5604627744E8324B0E9AAB96BB219D3A"
 msgid "拖入容器装水"
-msgstr "물을 담을 용기에 드래그"
+msgstr "물을 담을 용기에 끌어다놓기"
 
 #. Key:	569DFDE54CD2C05CA841E4AED49216C0
 #. SourceLocation:	/Game/Blueprint/UMG/Furniture/WBP_SPX.WBP_SPX_C:WidgetTree.development.ToolTipText
@@ -2013,7 +2013,7 @@ msgstr "큰"
 #: /Game/Blueprint/UMG/Furniture/WBP_YZ.WBP_YZ_C:WidgetTree.WBP_DropAnimal.ToolTipText
 msgctxt ",6A99CF8340C2FAECB78416B5BAAE65FA"
 msgid "拖放动物到这里"
-msgstr "여기에 동물을 드래그 앤 드롭하세요."
+msgstr "여기에 동물을 끌어다놓기."
 
 #. Key:	6ACC187246C8636B5F5FADB57DD4DFE7
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_86.In Text
@@ -3301,7 +3301,7 @@ msgstr "슬립다운"
 #: /Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_21.In Text
 msgctxt ",B232FF894251F2654E4C9A86C4D1351A"
 msgid "酒精"
-msgstr "술"
+msgstr "알코올"
 
 #. Key:	B26469FE4CE2CBC7FE94F4BDA847DB84
 #. SourceLocation:	/Game/Blueprint/Car/BP_CartBase.BP_CartBase_C:ExecuteUbergraph_BP_CartBase [Script Bytecode]
@@ -3364,7 +3364,7 @@ msgstr "메시지를 입력하세요!"
 #: /Game/Blueprint/ACF/Tutorial/WBP_TutorialTip3.WBP_TutorialTip3_C:WidgetTree.TextBlock_2.Text
 msgctxt ",B58B87BA4FB6AA4F14CA28AF12BD5C23"
 msgid "拾取建造锤"
-msgstr "제작 망치를 손에드세요!"
+msgstr "건설 망치를 손에드세요!"
 
 #. Key:	B5E30E844D9DAB3740F010AE9E26C525
 #. SourceLocation:	/Game/Blueprint/ACF/Tutorial/WBP_TutorialTip7.WBP_TutorialTip7_C:WidgetTree.TextBlock_1.Text
@@ -5856,7 +5856,7 @@ msgstr "약품 제조대"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B52"
 msgid "制药仪器"
-msgstr "제약 기기"
+msgstr "제약 기계"
 
 #. Key:	B53
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -7011,7 +7011,7 @@ msgstr "건조 (깨끗한 물)"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,F56"
 msgid "拖放容器到这里储存"
-msgstr "빈 용기를 여기로 드래그 앤 드롭하여 저장"
+msgstr "빈 용기를 여기로 끌어다놓아 담기"
 
 #. Key:	F57
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -7480,7 +7480,7 @@ msgstr "고급 직물"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,M11"
 msgid "酒精"
-msgstr "술"
+msgstr "알코올"
 
 #. Key:	M12
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8187,7 +8187,7 @@ msgstr "위약"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,T14"
 msgid "治疗疟疾"
-msgstr "말라리아상태를 치료"
+msgstr "말라리아 상태를 치료"
 
 #. Key:	T15
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8705,7 +8705,7 @@ msgstr "던질 수 있다"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,W8"
 msgid "石镐"
-msgstr "돌 선택"
+msgstr "곡괭이"
 
 #. Key:	W9
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -8796,7 +8796,7 @@ msgstr "잠긴 캐비닛이나 문은 지렛대로 열 수 있습니다."
 #: /Game/LocalizationText/TipMessage.TipMessage
 msgctxt "TipMessage,12"
 msgid "用小锤可以拆除某些物品获取材料。"
-msgstr "제작 망치로 건축물을 분해시 일부아이템을 돌려받을수있습니다."
+msgstr "건설 망치로 건축물을 분해시 일부아이템을 돌려받을수있습니다."
 
 #. Key:	13
 #. SourceLocation:	/Game/LocalizationText/TipMessage.TipMessage
@@ -9426,7 +9426,7 @@ msgstr "허물다"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,destroyHammer"
 msgid "使用建造锤长按"
-msgstr "제작 망치로 길게 누르기"
+msgstr "건설 망치로 길게 누르기"
 
 #. Key:	Detail
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9510,7 +9510,7 @@ msgstr "힘:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,DQ"
 msgid "钝器"
-msgstr "둔기"
+msgstr "둔기 숙련도"
 
 #. Key:	Drink
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10049,7 +10049,7 @@ msgstr "입력하다"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,JN"
 msgid "技能"
-msgstr "기술"
+msgstr "숙련도"
 
 #. Key:	JNAdd
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10140,7 +10140,7 @@ msgstr "내한성"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,KJ"
 msgid "科技"
-msgstr "기술"
+msgstr "제작및설계 연구"
 
 #. Key:	KJC
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10497,7 +10497,7 @@ msgstr "어려움:"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ND01"
 msgid "休闲"
-msgstr "초심자"
+msgstr "쉬움"
 
 #. Key:	ND02
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10910,7 +10910,7 @@ msgstr "게임 종료"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,QX"
 msgid "枪械"
-msgstr "총기"
+msgstr "총기 숙련도"
 
 #. Key:	QXBY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10966,7 +10966,7 @@ msgstr "제련 시간:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,RQ"
 msgid "锐器"
-msgstr "날카로운"
+msgstr "검 숙련도"
 
 #. Key:	RWTD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -11379,7 +11379,7 @@ msgstr "여름"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,SW11"
 msgid "在打开箱子的状态下，左键单击物品可以快速转移。\r\n\r\n拖动物品中按下R旋转物品方向。"
-msgstr "상자를 연 상태에서 아이템을 좌클릭하면 빠르게 배낭으로 옮길수 있습니다.\r\n\r\n물건의 방향을 회전하려면 물건을 드래그하는 동안 R을 누르십시오."
+msgstr "상자를 연 상태에서 아이템을 좌클릭하면 빠르게 배낭으로 옮길수 있습니다.\r\n\r\n물건의 방향을 회전하려면 물건을 선택한상태에서 R을 누르십시오."
 
 #. Key:	SY
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11519,7 +11519,7 @@ msgstr "범주:"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,TZ"
 msgid "体质"
-msgstr "헌법"
+msgstr "근육"
 
 #. Key:	TZBDF
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11813,7 +11813,7 @@ msgstr "고급 화학 반응 설비에서 제작"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useHammerBuild"
 msgid "使用建造锤建造"
-msgstr "제작 망치를 사용"
+msgstr "건설 망치를 사용"
 
 #. Key:	useHXFYT
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11869,7 +11869,7 @@ msgstr "제약 기계에서 제작"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,useZYZ"
 msgid "在制药桌制作"
-msgstr "약국 테이블에서 제작"
+msgstr "약품 테이블에서 제작"
 
 #. Key:	viralinfection
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
@@ -11967,7 +11967,7 @@ msgstr "해당 무기 데미지에 영향"
 #: /Game/LocalizationText/UIStudy.UIStudy
 msgctxt "UI,WQZJ"
 msgid "武器制造"
-msgstr "무기 제조"
+msgstr "무기 제조 숙련도"
 
 #. Key:	wsDetail
 #. SourceLocation:	/Game/LocalizationText/UICharacter.UICharacter
